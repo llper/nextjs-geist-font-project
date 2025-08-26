@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: timetracker
+  labels:
+    name: timetracker
+    app: timetracker-system
